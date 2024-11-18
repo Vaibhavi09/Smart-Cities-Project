@@ -29,8 +29,3 @@ This repository contains the code and resources for optimizing HVAC (Heating, Ve
 ## Contributors
 
  - Vaibhavi Jha, Lakshay Roodkee, Abhi Mandloi
-  
-
-## License
-
-This project is licensed under the MIT License.
